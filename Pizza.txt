@@ -1,10 +1,11 @@
 Ingredients
-1. Dough
+1. Dough  NO 
 2. Sauce (see sauce.txt)
-3. Toppings
+3. Toppings -- terrible
 
 Instructions
 1. Toss and spread dough
-2. Top with toppings
-2. Bake in preheated oven at 450 degrees F for 35 min.
+2. Top with toppings -- are you sure?
+3. Bake in preheated oven at 450 degrees F for 35 min.
 
+4. eat all the pizza
