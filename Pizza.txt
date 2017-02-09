@@ -1,5 +1,5 @@
 Pizza recipe
 1. Make dough
-2. Make sauce
+2. Make sauce (see sauce.txt)
 3. Add toppings
 4. Bake
